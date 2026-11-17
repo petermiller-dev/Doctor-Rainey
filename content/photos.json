@@ -1,0 +1,127 @@
+{
+  "_readme": "Photo and video registry. Each entry is one image slot on the site. To replace a wireframe placeholder, save the photo at assets/images/<file> and rebuild: the build detects the file and swaps the placeholder for the real image automatically. PHOTO-GUIDE.md is generated from this file.",
+
+  "hero-landscape": {
+    "number": 1,
+    "title": "Texas Landscape — Hero Backdrop (Optional)",
+    "description": "A wide, softly lit North Texas landscape: live oaks, open grassland or a quiet field at early morning or golden hour. Must be our own photograph or properly licensed.",
+    "file": "hero/texas-landscape.jpg",
+    "ratio": "16/9",
+    "size": "2400 × 1350 px (minimum 1920 × 1080)",
+    "crop": "Keep the horizon in the lower third and the left half calm — the headline sits over the left side. Avoid people and buildings. On phones the image is cropped to the centre.",
+    "alt": "Live oak trees in soft morning light across open North Texas grassland",
+    "usedOn": "Home (hero). Until supplied, an illustrated landscape is shown.",
+    "permission": "Licence or photographer release required."
+  },
+  "portrait-professional": {
+    "number": 2,
+    "title": "Dr. Rainey — Professional Portrait",
+    "description": "Natural, approachable portrait of Dr. Rainey in soft window light. Waist-up, looking toward the camera. Warm neutral background; white coat optional.",
+    "file": "about/rainey-portrait.jpg",
+    "ratio": "4/5",
+    "size": "1600 × 2000 px",
+    "crop": "Vertical 4:5. Eyes roughly one-third from the top, a little space above the head. Keep shoulders inside the frame.",
+    "alt": "Portrait of Shane Rainey, DO, pediatrician in Fort Worth, Texas",
+    "usedOn": "Home (Meet Dr. Rainey), About",
+    "permission": "Dr. Rainey's approval of the final selection."
+  },
+  "portrait-office": {
+    "number": 3,
+    "title": "Dr. Rainey at Work in His Office",
+    "description": "Candid, editorial photograph of Dr. Rainey at his desk or reviewing notes in his office. Natural light, uncluttered. No patient information visible on screens or paper.",
+    "file": "about/rainey-office.jpg",
+    "ratio": "3/2",
+    "size": "2100 × 1400 px",
+    "crop": "Horizontal 3:2. Dr. Rainey slightly off-centre; leave breathing room on one side.",
+    "alt": "Shane Rainey, DO, working at his desk in his Fort Worth office",
+    "usedOn": "About",
+    "permission": "Confirm no patient information is visible."
+  },
+  "family": {
+    "number": 4,
+    "title": "Dr. Rainey with His Family — Photography Needed",
+    "description": "A relaxed, natural family photograph of Dr. Rainey with his wife and children, ideally outdoors in soft light. Only with the family's explicit permission for public use.",
+    "file": "about/rainey-family.jpg",
+    "ratio": "3/2",
+    "size": "2400 × 1600 px",
+    "crop": "Horizontal 3:2. Keep everyone inside the central 80% — edges may be cropped on phones.",
+    "alt": "Shane Rainey, DO, with his wife and children",
+    "usedOn": "Home (More Than a Physician), About",
+    "permission": "Written approval from Dr. Rainey and his family. Children's names are never published."
+  },
+  "with-patient": {
+    "number": 5,
+    "title": "Dr. Rainey with a Young Patient",
+    "description": "A gentle, candid moment of Dr. Rainey with a child (and parent) during a visit — listening, explaining, or a stethoscope check. Warm, unposed.",
+    "file": "care/rainey-with-patient.jpg",
+    "ratio": "4/3",
+    "size": "2000 × 1500 px",
+    "crop": "Horizontal 4:3. Faces may be turned away if preferred.",
+    "alt": "Shane Rainey, DO, gently examining a young patient while a parent looks on",
+    "usedOn": "Pediatric Care",
+    "permission": "Signed photo release from the parent/guardian is REQUIRED before use."
+  },
+  "waiting-room": {
+    "number": 6,
+    "title": "Waiting Room",
+    "description": "The waiting area as families will experience it: calm, tidy, naturally lit. No people, or only staff who have approved. Avoid signage belonging to other businesses.",
+    "file": "office/waiting-room.jpg",
+    "ratio": "3/2",
+    "size": "2100 × 1400 px",
+    "crop": "Horizontal 3:2, shot from the entry looking in at standing eye level.",
+    "alt": "The calm, naturally lit waiting room at Dr. Rainey's Fort Worth office",
+    "usedOn": "New Patients",
+    "permission": "Building owner approval if shared space is visible."
+  },
+  "exam-room": {
+    "number": 7,
+    "title": "Examination Room",
+    "description": "A clean, welcoming exam room. Straightened, with no patient information visible.",
+    "file": "office/exam-room.jpg",
+    "ratio": "3/2",
+    "size": "2100 × 1400 px",
+    "crop": "Horizontal 3:2. Include the exam table and a window if possible.",
+    "alt": "A bright, welcoming pediatric examination room",
+    "usedOn": "New Patients",
+    "permission": "Confirm no patient information is visible."
+  },
+  "office-exterior": {
+    "number": 8,
+    "title": "Office Exterior & Entrance",
+    "description": "The building entrance at 4927 Byers Avenue as a family would see it on arrival, helping visitors recognise the right door. Avoid making another business's signage the focus.",
+    "file": "office/exterior.jpg",
+    "ratio": "4/3",
+    "size": "2000 × 1500 px",
+    "crop": "Horizontal 4:3, from the parking area or sidewalk. Entrance near the centre.",
+    "alt": "Entrance to Dr. Rainey's office building at 4927 Byers Avenue, Fort Worth",
+    "usedOn": "Home (Location), Contact",
+    "permission": "Building owner approval recommended."
+  },
+  "detail-texture": {
+    "number": 9,
+    "title": "Quiet Detail — Office or Outdoors",
+    "description": "A calm detail image: a stethoscope on a wooden desk, sunlight across oak leaves, or a children's book on a shelf. Used as a supporting image beside article listings.",
+    "file": "details/quiet-detail.jpg",
+    "ratio": "4/5",
+    "size": "1600 × 2000 px",
+    "crop": "Vertical 4:5. Subject centred.",
+    "alt": "Morning light across the leaves of a Texas live oak",
+    "usedOn": "Articles & Resources",
+    "permission": "Our own photograph or licensed."
+  },
+  "intro-video": {
+    "number": 10,
+    "kind": "video",
+    "title": "A Personal Introduction — Video",
+    "description": "A 60–90 second video of Dr. Rainey introducing himself, his philosophy of care, and how families can become patients. Filmed in his office or outdoors in natural light, with captions.",
+    "file": "video/rainey-introduction.mp4",
+    "poster": "video/rainey-introduction-poster.jpg",
+    "captions": "video/rainey-introduction.vtt",
+    "ratio": "16/9",
+    "size": "1920 × 1080 px MP4 (H.264), under 25 MB; poster image 1920 × 1080 JPG; captions as WebVTT",
+    "crop": "16:9 landscape. Poster frame: Dr. Rainey looking toward the camera, mid-sentence, warm light.",
+    "alt": "Video: Shane Rainey, DO, introduces himself and his approach to pediatric care",
+    "usedOn": "Home (A Personal Introduction), About",
+    "permission": "Dr. Rainey's approval of the final edit. Captions required for accessibility."
+  }
+}

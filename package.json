@@ -1,0 +1,12 @@
+{
+  "name": "shane-rainey-website",
+  "private": true,
+  "description": "Website for Shane Rainey, DO — Pediatrician, Fort Worth, Texas",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "serve": "node scripts/serve.mjs",
+    "start": "node scripts/build.mjs && node scripts/serve.mjs"
+  },
+  "engines": { "node": ">=18" }
+}

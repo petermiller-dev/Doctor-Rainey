@@ -1,0 +1,43 @@
+{
+  "_readme": "Central site settings. Edit values here and rebuild. Fields under 'verified' control what appears in search-engine structured data: only set a field to true once Dr. Rainey confirms it.",
+
+  "title": "Shane Rainey, DO",
+  "subtitle": "Pediatrician | Fort Worth, Texas",
+  "physicianName": "Shane Rainey, DO",
+  "shortName": "Dr. Rainey",
+  "credential": "Doctor of Osteopathic Medicine",
+  "specialty": "Pediatrician",
+  "city": "Fort Worth",
+  "region": "Texas",
+
+  "siteUrl": "https://petermiller-dev.github.io/Doctor-Rainey",
+  "language": "en-US",
+  "previewMode": true,
+
+  "contact": {
+    "streetAddress": "4927 Byers Avenue",
+    "addressLocality": "Fort Worth",
+    "addressRegion": "TX",
+    "postalCode": "76107",
+    "phoneDisplay": "(817) 720-6220",
+    "phoneE164": "+18177206220",
+    "email": "drrainey@restoreandrevive.com",
+    "hours": ""
+  },
+
+  "verified": {
+    "streetAddress": false,
+    "phone": false,
+    "email": false,
+    "hours": false
+  },
+
+  "nav": [
+    { "label": "Home", "href": "/" },
+    { "label": "About Dr. Rainey", "href": "/about/" },
+    { "label": "Pediatric Care", "href": "/pediatric-care/" },
+    { "label": "New Patients", "href": "/new-patients/" },
+    { "label": "Articles & Resources", "href": "/resources/" },
+    { "label": "Contact", "href": "/contact/" }
+  ]
+}
