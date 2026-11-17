@@ -132,8 +132,10 @@ and remove the Google Fonts `<link>`.
 
 ## Publishing
 
-Every push to `main` runs `.github/workflows/pages.yml`: build → check → deploy to GitHub
-Pages. In repository **Settings → Pages**, the source must be **GitHub Actions**.
+Every push to `main` runs `.github/workflows/pages.yml`: build → check → publish the
+generated site to the `gh-pages` branch. GitHub Pages serves that branch
+(**Settings → Pages → Deploy from a branch → `gh-pages` / root**). Never edit `gh-pages` by
+hand; it is overwritten on every publish.
 
 All links are relative, so the site works at `/Doctor-Rainey/` today and at the root of a
 custom domain later. When launching on Dr. Rainey's domain:
