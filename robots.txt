@@ -1,0 +1,5 @@
+# Preview draft — please do not index.
+User-agent: *
+Disallow: /
+
+Sitemap: https://petermiller-dev.github.io/Doctor-Rainey/sitemap.xml
