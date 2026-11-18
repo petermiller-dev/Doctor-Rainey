@@ -4,7 +4,7 @@ description: How to become a new patient of Shane Rainey, DO, a pediatrician in 
 slug: new-patients
 eyebrow: New Patients
 h1: Welcome. Here is how to begin.
-lede: Dr. Rainey welcomes new families. This page will explain exactly how to get started once scheduling, membership, insurance, and pricing details are confirmed.
+lede: Looking for a pediatrician who welcomes your questions and considers your child's health as a whole? This page explains the first steps; scheduling, membership, insurance, and pricing details await confirmation.
 ---
 
 ## Getting started
