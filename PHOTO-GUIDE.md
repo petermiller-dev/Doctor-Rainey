@@ -37,7 +37,7 @@ Every image slot on the site is listed below. Until a file exists at the path sh
 - **Alt text:** "Live oak trees in soft morning light across open North Texas grassland"
 - **Used on:** Home (hero). Until supplied, an illustrated landscape is shown.
 - **Permission:** Licence or photographer release required.
-- **Status:** Needed
+- **Status:** Supplied ✔
 
 ## 2. Dr. Rainey — Professional Portrait
 
